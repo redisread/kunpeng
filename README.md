@@ -1,3 +1,7 @@
+---
+
+---
+
 # 鲲鹏计算资料总结:zap:
 [toc]
 
@@ -9,7 +13,7 @@
 
 华为鲲鹏处理器是华为自主研发的基于ARM架构的企业级系列处理器产品，包含“算、存、传、管、智”五个产品系统体系。
 
-![鲲鹏服务器](https://i.loli.net/2020/04/18/VFhieyZYQuU6GBJ.png)
+![鲲鹏服务器](images/VFhieyZYQuU6GBJ.png)
 
 ##### 架构介绍：
 
@@ -17,7 +21,7 @@
 
 处理器对比：
 
-![](https://i.loli.net/2020/04/18/6W1juFiqv2hzr8d.png)
+![](images\6W1juFiqv2hzr8d.png)
 
 ##### 优点：
 
@@ -28,7 +32,7 @@
 
 ##### 规格发展
 
-![](https://i.loli.net/2020/04/18/uwZ1cvNSGKR4H2f.png)
+![](images/uwZ1cvNSGKR4H2f.png)
 
 
 
