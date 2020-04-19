@@ -21,7 +21,7 @@
 
 处理器对比：
 
-![](images\6W1juFiqv2hzr8d.png)
+![](images/6W1juFiqv2hzr8d.png)
 
 ##### 优点：
 
