@@ -38,35 +38,35 @@
 
 ##### 华为鲲鹏920处理器规格
 
-![](https://i.loli.net/2020/04/18/iMosNK617S54Dny.png)
+![](images/iMosNK617S54Dny.png)
 
 
 
 ##### 技术创新
 
-![](https://i.loli.net/2020/04/18/9LC2kaKpDUNo5XT.png)
+![](images/9LC2kaKpDUNo5XT.png)
 
-![](https://i.loli.net/2020/04/18/yQuJH1DlMLehm7I.png)
+![](images/yQuJH1DlMLehm7I.png)
 
 ##### 内置多种加速引擎
 
-![](https://i.loli.net/2020/04/18/AZSiXNcfErgdxCw.png)
+![](images/AZSiXNcfErgdxCw.png)
 
 ### Taishan服务器
 
 ##### 系列
 
-![](https://i.loli.net/2020/04/18/HCQnTb836pzG4d2.png)
+![](images/HCQnTb836pzG4d2.png)
 
 ##### TaiShan 200机架服务器全景图
 
-![](https://i.loli.net/2020/04/18/eITiMzy1FdBkLW8.png)
+![](images/eITiMzy1FdBkLW8.png)
 
 ##### TaiShan 200高密服务器
 
-![](https://i.loli.net/2020/04/18/haEQrUi5bSxCMo4.png)
+![](images/haEQrUi5bSxCMo4.png)
 
-![](https://i.loli.net/2020/04/18/TaH3KrYOsk9xFS5.png)
+![](images/TaH3KrYOsk9xFS5.png)
 
 ### 云服务
 
